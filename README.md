@@ -174,7 +174,7 @@ Ejemplo:
 ls data/raw
 ```
 
-## 12. Comando para crear el índice
+## Comando para crear el índice
 
 Este comando construye el índice usando los archivos JSON ubicados en `data/raw/`.
 
@@ -194,7 +194,7 @@ spark-submit --master "local[*]" \
   --overwrite
 ```
 
-## 14. Comando para buscar
+## Comando para buscar
 
 Ejemplo de búsqueda:
 
