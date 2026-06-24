@@ -1,0 +1,8 @@
+{"id": "1", "title": "Artificial intelligence", "text": "Artificial intelligence is intelligence demonstrated by machines. It is used in robotics, search engines and data analysis."}
+{"id": "2", "title": "Robotics", "text": "Robotics is an interdisciplinary field involving robots, control systems, sensors and artificial intelligence."}
+{"id": "3", "title": "Distributed computing", "text": "Distributed computing studies systems whose components are located on different networked computers."}
+{"id": "4", "title": "MapReduce", "text": "MapReduce is a programming model for processing large data sets with a distributed algorithm on a cluster."}
+{"id": "5", "title": "Search engine", "text": "A search engine indexes documents and returns ranked results according to relevance."}
+{"id": "6", "title": "Wikipedia", "text": "Wikipedia is a free online encyclopedia created and edited by volunteers around the world."}
+{"id": "7", "title": "Information retrieval", "text": "Information retrieval finds material of an unstructured nature that satisfies an information need from large collections."}
+{"id": "8", "title": "TF IDF", "text": "TF IDF is a numerical statistic intended to reflect how important a word is to a document in a collection."}
