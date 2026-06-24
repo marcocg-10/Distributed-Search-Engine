@@ -596,7 +596,7 @@ Crear índice:
 
 ```bash
 spark-submit --master "local[*]" \
-  --conf spark.ui.showConsoleProgress=false \
+  --driver-java-options="-Dlog4j.configurationFile=conf/log4j2.properties" \
   --py-files src/common.py \
   src/build_index.py \
   --input data/raw/ \
@@ -615,7 +615,7 @@ Buscar:
 
 ```bash
 spark-submit --master "local[*]" \
-  --conf spark.ui.showConsoleProgress=false \
+  --driver-java-options="-Dlog4j.configurationFile=conf/log4j2.properties" \
   --py-files src/common.py \
   src/search.py \
   --index data/index/ \
