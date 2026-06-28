@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Spark / local execution artifacts
+spark-warehouse/
+metastore_db/
+.derby/
+
+# Generated search index
+data/index/
+
+# Temporary files
+tmp/
+temp/
