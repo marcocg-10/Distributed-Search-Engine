@@ -1,0 +1,16 @@
+experiment,value,run_number,time_seconds
+query,"machine learning",1,9.362360230
+query,"machine learning",2,9.803146296
+query,"machine learning",3,9.047265470
+query,"machine learning",4,9.284624180
+query,"machine learning",5,9.286863421
+query,"artificial intelligence machine",1,8.929219557
+query,"artificial intelligence machine",2,8.662354077
+query,"artificial intelligence machine",3,8.733027298
+query,"artificial intelligence machine",4,8.296670549
+query,"artificial intelligence machine",5,9.172512728
+query,"artificial intelligence machine learning distributed systems",1,8.846478001
+query,"artificial intelligence machine learning distributed systems",2,9.220866836
+query,"artificial intelligence machine learning distributed systems",3,9.150980975
+query,"artificial intelligence machine learning distributed systems",4,9.528278790
+query,"artificial intelligence machine learning distributed systems",5,8.782332910
